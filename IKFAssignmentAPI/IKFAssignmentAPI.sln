@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IKFAssignmentAPI", "IKFAssignmentAPI\IKFAssignmentAPI.csproj", "{CFBCBED5-DFAD-4ABD-93E9-B6C79538E224}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFBCBED5-DFAD-4ABD-93E9-B6C79538E224}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFBCBED5-DFAD-4ABD-93E9-B6C79538E224}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFBCBED5-DFAD-4ABD-93E9-B6C79538E224}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFBCBED5-DFAD-4ABD-93E9-B6C79538E224}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC832F04-E04C-48DE-858C-7CF94707AA80}
+	EndGlobalSection
+EndGlobal
